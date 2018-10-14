@@ -9,5 +9,8 @@ mensaje()
 
 mensaje()
 
-
+print("Ejecutando código fuera de función")
 mensaje()
+
+
+
