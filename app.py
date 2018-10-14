@@ -5,3 +5,9 @@ def mensaje():
 	print("Poco a poco iremos avanzando")
 
 mensaje()
+
+
+mensaje()
+
+
+mensaje()
